@@ -27,3 +27,4 @@ Ensure that your AWS credentials are properly configured in GitHub Secrets for t
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.# Trigger deployment
+# Trigger deployment
