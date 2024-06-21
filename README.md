@@ -26,4 +26,4 @@ The repository includes a GitHub Actions workflow (deploy.yml) that automates th
 Ensure that your AWS credentials are properly configured in GitHub Secrets for the workflow to execute successfully.
 
 ## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.# Trigger deployment
